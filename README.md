@@ -1,3 +1,3 @@
 # NLP
 
-Sentimental analysis on the Elon-musk tweets
+Sentimental analysis on Elon Musk's tweets
